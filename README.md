@@ -2,26 +2,81 @@
 
 Welcome to my Networking Notes repository.
 
+This repository documents my journey of learning **Networking and Cybersecurity** through theory, practical labs, commands, screenshots, and real-world examples.
+
 ## 📚 Topics Covered
 
-- ✅ OSI Model
-- ✅ DNS
-- ✅ TCP vs UDP
+* ✅ OSI Model
+* ✅ TCP vs UDP
+* ✅ DNS
+* ✅ ARP
+* ✅ DHCP
+* ✅ Subnetting
+* ✅ HTTP & HTTPS
 
-## 🎯 Goal
+## 🧪 Practical Labs
 
-I'm documenting my networking journey while preparing for a career in Cybersecurity and SOC.
+I am practicing networking concepts using my own computer and lab environments.
 
-I'll continue updating this repository as I learn new concepts.
+* ✅ DNS lookup using `nslookup`
+* ✅ ARP cache analysis using `arp -a`
+* ✅ DHCP configuration analysis using `ipconfig /all`
+* 🚧 More practical networking labs coming soon
 
-## 📁 Folder Structure
+## 📁 Repository Structure
 
-```
-Networking-Notes
+```text
+networking-notes/
 │
-├── Images
-├── Notes
+├── Images/
+├── Labs/
+├── Notes/
+│   ├── ARP.md
+│   ├── DHCP.md
+│   ├── DNS.md
+│   ├── HTTP-HTTPS.md
+│   ├── OSI-Model.md
+│   ├── Subnetting.md
+│   └── TCP-vs-UDP.md
+│
 └── README.md
 ```
 
-Happy Learning! 🚀
+## 🎯 Goal
+
+My goal is to build strong networking fundamentals and apply them to **Cybersecurity, SOC analysis, and Ethical Hacking**.
+
+I will continue updating this repository as I learn new concepts and complete practical labs.
+
+## 📈 Learning Progress
+
+* [x] OSI Model
+* [x] TCP vs UDP
+* [x] DNS
+* [x] ARP
+* [x] DHCP
+* [x] Subnetting
+* [x] HTTP & HTTPS
+
+### Next Topics
+
+* [ ] IP Addressing
+* [ ] CIDR
+* [ ] ICMP
+* [ ] NAT
+* [ ] Routing
+* [ ] Switching
+* [ ] VLANs
+* [ ] Firewalls
+* [ ] Wireshark Packet Analysis
+* [ ] Nmap Networking Labs
+
+---
+
+## 🔄 My Learning Workflow
+
+```text
+Learn → Practice → Document → Add Evidence → Update README → Commit → Push
+```
+
+> **Learning networking one concept and one practical lab at a time.** 🔐💻
